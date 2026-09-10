@@ -129,3 +129,12 @@ wrk -t12 -c1000 -d30s https://api.soundbite.chat/api/v1/stickers/catalog
     <img src="https://api.star-history.com/svg?repos=notdatkunal/soundbite&type=Date" alt="Star History Chart" width="700" />
   </a>
 </div>
+
+
+## Planning Phase & Roadmap
+
+### Compliance & Security (India)
+Operating a social voice platform requires strict adherence to intermediary guidelines:
+* **DPDP Act (2023) & CERT-In:** We prioritize secure data handling and mandatory incident reporting (within 6 hours) with 180-day secure IT logging physically located in India.
+* **IT Rules 2021 (SSMI):** As the platform grows beyond 5 million Indian users, we are prepared to establish a formal compliance tier—appointing resident grievance and compliance officers, and ensuring unlawful audio drops can be taken down within 36 hours of legal orders.
+
